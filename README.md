@@ -6,6 +6,7 @@ This prototype is built with pure HTML, CSS, and JavaScript and includes interac
 
 Features
 
+
 Responsive Design: Adapts to desktop and mobile screens.
 
 Hero Section: Shows key metrics like projected credits, cost reduction, and offline connectivity.
