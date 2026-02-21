@@ -4,6 +4,7 @@ A single-page, interactive, and responsive prototype for the CarbonSathi platfor
 
 This prototype is built with pure HTML, CSS, and JavaScript and includes interactive charts, tabs, and accordions to simulate the real application workflow.
 
+
 Features
 
 Responsive Design: Adapts to desktop and mobile screens.
