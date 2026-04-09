@@ -1,6 +1,5 @@
 CarbonSathi Prototype
 
-
 A single-page, interactive, and responsive prototype for the CarbonSathi platform, designed to demonstrate smallholder-first MRV (Measurement, Reporting, Verification) for agroforestry and rice farming.
 
 This prototype is built with pure HTML, CSS, and JavaScript and includes interactive charts, tabs, and accordions to simulate the real application workflow.
