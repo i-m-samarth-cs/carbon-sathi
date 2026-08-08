@@ -9,6 +9,7 @@ Responsive Design: Adapts to desktop and mobile screens.
 
 Hero Section: Shows key metrics like projected credits, cost reduction, and offline connectivity.
 
+
 Interactive Tabs: Features, Functionality, and Farmer Journey sections.
 
 Accordion: Step-by-step Farmer Journey with collapsible sections.
